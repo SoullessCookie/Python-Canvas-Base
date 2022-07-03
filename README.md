@@ -1,4 +1,4 @@
 # Python-Canvas-Base  
-This is a simple canvas base written in python using tkinter  
+This is a simple canvas base written in Python using Tkinter  
   
-tkinter documentation: https://docs.python.org/3/library/tkinter.html
+Tkinter documentation: https://docs.python.org/3/library/tkinter.html
